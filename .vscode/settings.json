@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9a695856-98c3-4ac9-ac28-6f5878a29212/resourceGroups/wmtecnologia/providers/Microsoft.Web/sites/wmtecnologia",
+    "appService.deploySubpath": "."
+}
